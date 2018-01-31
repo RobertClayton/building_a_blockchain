@@ -4,6 +4,12 @@ Makers Academy week 9 project. In one week we learnt what a Blockchain is and bu
 
 Please find the demonstration on the project as well as a presentation on what is a blockchain here: [Video Demo & What is a Blockchain Presentation](https://www.youtube.com/watch?v=Bn5-nSosdGk)
 
+There was a group of four people who build this project, please find us here:    
+Robert: https://github.com/RobertClayton   
+Jamie: https://github.com/ethicalDev    
+Suzanne: https://github.com/SuzanneHuldt    
+Majdeddine: https://github.com/majdeddine
+
 ## Approach
 
 We first needed understand what a Blockchain was. This involved research and group sessions on whiteboards, projectors and verbal discussions until each member of the team understood the entire concept.
